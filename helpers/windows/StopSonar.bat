@@ -1,0 +1,1 @@
+@powershell kill -name java
